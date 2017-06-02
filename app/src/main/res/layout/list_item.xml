@@ -9,8 +9,7 @@
     <ImageView
         android:id="@+id/image_resource"
         android:layout_width="@dimen/list_item_height"
-        android:layout_height="@dimen/list_item_height"
-        android:padding="16dp"/>
+        android:layout_height="@dimen/list_item_height"/>
 
     <LinearLayout
         android:id="@+id/text_container"
