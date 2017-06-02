@@ -1,0 +1,52 @@
+<resources>
+
+    <string name="app_name">Tour Guide App</string>
+    <string name="category_airports">Airports</string>
+    <string name="category_hotels">Hotels</string>
+    <string name="category_restaurants">Restaurant</string>
+    <string name="category_shared_experiences">Shared Experiences</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Hotels -->
+    <string name="hotel_title_cassa">Cassa Times Square</string>
+    <string name="hotel_description_cassa">Address: 515 9th Ave, New York, NY 10018, EE. UU.</string>
+    <string name="hotel_title_novotel">Novotel</string>
+    <string name="hotel_description_novotel">Address: 226 W 52nd St, New York, NY 10019, EE. UU.</string>
+    <string name="hotel_title_room_mate">Room Mate Grace Hotel</string>
+    <string name="hotel_description_room_mate">Address: 125 W 45th St, New York, NY 10036, EE. UU.</string>
+    <string name="hotel_title_hyatt">Park Hyatt New York</string>
+    <string name="hotel_description_hyatt">Address: 153 W 57th St, New York, NY 10019, EE. UU.</string>
+
+    <!-- Airports -->
+    <string name="airport_title_jfk">John F. Kennedy International Airport</string>
+    <string name="airport_description_jfk">JFK, in Queens (at the south end of the Van Wyck Expressway), primarily handles international flights.</string>
+    <string name="airport_title_guardia">LaGuardia Airport</string>
+    <string name="airport_description_guardia">LaGuardia, also in Queens (on the Grand Central Parkway), mainly handles domestic flights</string>
+    <string name="airport_title_newark">Newark International Airport</string>
+    <string name="airport_description_newark">Newark, in Newark, New Jersey, handles both domestic and international flights.</string>
+
+    <!--Restaurants-->
+    <string name="restaurant_title_blue">Blue Hill</string>
+    <string name="restaurant_description_blue">Address: 75 Washington Pl, New York, NY 10011, EE. UU.</string>
+    <string name="restaurant_title_georges">Jean Georges</string>
+    <string name="restaurant_description_georges">Address: 1 Central Park West, New York, NY 10023, EE. UU.</string>
+    <string name="restaurant_title_balthazar">Balthazar</string>
+    <string name="restaurant_description_balthazar">Address: 80 Spring St, New York, NY 10012, EE. UU.</string>
+    <string name="restaurant_title_daniel">Daniel</string>
+    <string name="restaurant_description_daniel">Address: 60 E 65th St, New York, NY 10065, EE. UU.</string>
+    
+    <!--Experiences-->
+    
+    <string name="experiences_title_sara"> Sara P.</string>
+    <string name="experiences_description_sara">Lovely City! </string>
+    <string name="experiences_title_pepe"> Pepe L.</string>
+    <string name="experiences_description_pepe">What can I said ? , Best city in the world!! </string>
+    <string name="experiences_title_peter"> Peter P.</string>
+    <string name="experiences_description_peter">Amazing city !</string>
+    <string name="experiences_title_tony"> Tony S.</string>
+    <string name="experiences_description_tony"> NY is amazing ! </string>
+    
+
+</resources>
