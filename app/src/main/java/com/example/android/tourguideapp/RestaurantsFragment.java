@@ -23,10 +23,10 @@ public class RestaurantsFragment extends Fragment {
         //Create an array of cityInfos
         final ArrayList<CityInfo> cityInfos = new ArrayList<CityInfo>();
 
-        cityInfos.add(new CityInfo(getString(R.string.restaurant_title_balthazar),getString(R.string.restaurant_description_balthazar)));
-        cityInfos.add(new CityInfo(getString(R.string.restaurant_title_blue),getString(R.string.restaurant_description_blue)));
-        cityInfos.add(new CityInfo(getString(R.string.restaurant_title_daniel),getString(R.string.restaurant_title_daniel)));
-        cityInfos.add(new CityInfo(getString(R.string.restaurant_title_georges),getString(R.string.restaurant_description_georges)));
+        cityInfos.add(new CityInfo(getString(R.string.restaurant_title_balthazar),getString(R.string.restaurant_description_balthazar), R.drawable.restaurant_logo));
+        cityInfos.add(new CityInfo(getString(R.string.restaurant_title_blue),getString(R.string.restaurant_description_blue),R.drawable.restaurant_logo));
+        cityInfos.add(new CityInfo(getString(R.string.restaurant_title_daniel),getString(R.string.restaurant_description_daniel),R.drawable.restaurant_logo));
+        cityInfos.add(new CityInfo(getString(R.string.restaurant_title_georges), getString(R.string.restaurant_description_georges),R.drawable.restaurant_logo));
 
 
 
